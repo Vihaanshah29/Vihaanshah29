@@ -1,6 +1,6 @@
 ### Hi there, I'm Vihaan Shah 👋 
 
-[![Website](https://img.shields.io/website?label=Vihaanshah29.io&style=for-the-badge&url=https%3A%2F%2FVihaanshah29.io)](https://vihaanshah29.github.io/)
+[Website](https://img.shields.io/website?label=Vihaanshah29.io&style=for-the-badge&url=https%3A%2F%2FVihaanshah29.io)](https://vihaanshah29.github.io/)
 
 ## I'm a fellow Data Scientist
 
