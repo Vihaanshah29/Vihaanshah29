@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning everything(Trying) 
 - 👯 Coming up new ways to tackle Imposter Syndrome 
-- 🥅 2021 Goals: Contribute more and Upskill in Data science field
+- 🥅 2022 Goals: Contribute more and Upskill in Data science field
 - ⚡ Fun fact: Big fan of Liverpool Football Club 
 
 ### Connect with me:
